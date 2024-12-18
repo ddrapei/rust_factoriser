@@ -54,6 +54,6 @@ fn main() {
         // Отримуємо та виводимо результат
         let factors = get_prime_factors(number);
         println!("The number {} has those factors: {:?}", number, factors);
-        println!("\nEnter the second number, ot type (0 Enter)121 to exit");
+        println!("\nEnter the second number, ot type (0 Enter)to exit");
     }
 }
